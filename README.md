@@ -6,6 +6,7 @@
 
 ```
 // webpack.config.js
+// npm install axios form-data webpack-log
 const UploadsmWebpackPlugin = require('uploadsm-webpack-plugin')
 module.exports = {
     ....
